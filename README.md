@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Anthony
 
-<!--
-**anthony-admincyber/anthony-admincyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Cybersecurity & Infrastructure Administrator  
+🔐 Blue Team | SOC | Infrastructure Security  
+🇫🇷 France  
 
-Here are some ideas to get you started:
+### 🧠 Currently Learning
+- Networking & Security fundamentals
+- Windows & Linux Administration
+- Python & PowerShell for security automation
+- SIEM & log analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies
+- Windows Server, Linux
+- TCP/IP, DNS, VPN, Firewall
+- Python, PowerShell
+- TryHackMe, Hack The Box
+
+### 📌 Goals
+- Build hands-on cybersecurity projects
+- Strengthen blue team & SOC skills
+- Get a cybersecurity position by 2027
