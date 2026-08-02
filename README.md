@@ -38,7 +38,7 @@ Alliant un état d'esprit rigoureux et axé sur la mission à une formation tech
 ---
 
 ## 🚀 Projets en cours & Objectifs
-*   **🛠️ Lab Cluster Sécurisé VMware (En cours) :** Mise en place d'un cluster vSphere imbriqué (Nested) avec stockage partagé TrueNAS (iSCSI), un domaine Active Directory, et un SIEM Splunk hébergé sur Ubuntu pour détecter et alerter sur des attaques par force brute simulées.
+*   **🛠️ 🛠️ Lab Infrastructure Sécurisée & Virtualisation (En cours) : Mise en place d'une infrastructure PME haute disponibilité avec Hyper-V imbriqué (Nested) sous VMware Workstation, stockage SAN partagé TrueNAS (iSCSI), annuaire Active Directory (Windows Server 2025), base de données SQL Server sur Linux, supervision Centreon et stratégie de sauvegarde Veeam B&R.
 *   **🎯 Objectif :** Décrocher un **stage de 350 heures à partir de février 2027** en tant qu'Administrateur d'Infrastructures Sécurisées / Analyste SOC.
 
 ---
