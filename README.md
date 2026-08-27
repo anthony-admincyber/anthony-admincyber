@@ -1,47 +1,124 @@
 # 👋 Bonjour, je m'appelle Anthony ROBERT
 
-🎯 **Administrateur Systèmes, Réseaux & Cybersécurité** (En formation RNCP Niveau 6)
+🎯 **Administrateur Systèmes, Réseaux & Cybersécurité** | En formation RNCP Niveau 6
 
 🛡️ **Spécialisation :** Blue Team | Sécurité des Infrastructures | Sécurité Opérationnelle (SOC)
 
-📍 Grand Est, France (Mobile : Metz, Nancy, Reims)
+📍 **Grand Est, France** — Mobile : Metz | Nancy | Reims
 
 ---
 
 ## 👤 Profil & Parcours
-Fort d'une expérience solide de 20 ans dans des environnements de sécurité publique à forts enjeux (gestion des risques, réponse aux crises et application de protocoles stricts), je me réoriente activement vers la **Cybersécurité Défensive et l'Administration d'Infrastructures**.
 
-Alliant un état d'esprit rigoureux et axé sur la mission à une formation technique intensive, je construis des compétences concrètes pour déployer, surveiller et durcir les environnements informatiques d'entreprise.
+Fort d'une expérience de près de 20 ans dans des environnements professionnels à forts enjeux, impliquant rigueur, gestion des risques, respect de procédures et réactivité face aux situations sensibles, je me réoriente aujourd'hui vers l'**administration des infrastructures sécurisées et la cybersécurité défensive**.
 
----
+Dans le cadre de ma formation **RNCP Niveau 6**, je développe des compétences techniques concrètes en administration des systèmes et réseaux, virtualisation, supervision, sécurisation des infrastructures et analyse des événements de sécurité.
 
-## 🏆 Certifications & Points Forts
-*   **TryHackMe :** 🥇 **Top 1% Mondial** (Parcours : SOC Level 1, Junior Penetration Tester, Web Fundamentals)
-*   **Cisco Networking Academy :** Network Technician Path
-*   **Google / Coursera :** Google Cybersecurity Professional | Google IT Support Professional
-*   **En préparation :** AWS Certified Solutions Architect – Associate
+Mon objectif est de combiner mon expérience professionnelle, mon sens de la rigueur et mes nouvelles compétences techniques afin de contribuer à la **protection, à la supervision et à la sécurisation des systèmes d'information**.
 
 ---
 
-## 🛠️ Outils & Technologies
+## 🏆 Certifications & Points forts
+
+* 🥇 **TryHackMe : Top 1 % mondial**
+
+  * Parcours **SOC Level 1**
+  * **Junior Penetration Tester**
+  * **Web Fundamentals**
+
+* 🌐 **Cisco Networking Academy**
+
+  * Network Technician Path
+
+* 🎓 **Google / Coursera**
+
+  * Google Cybersecurity Professional Certificate
+  * Google IT Support Professional Certificate
+
+* ☁️ **Certification en préparation**
+
+  * AWS Certified Solutions Architect – Associate
+
+---
+
+## 🛠️ Compétences & Technologies
 
 ### 💻 Infrastructures & Systèmes
-*   **OS :** Windows Server, Linux (Ubuntu, Kali), Active Directory (GPO, Durcissement)
-*   **Virtualisation & Cloud :** VMware (ESXi), Hyper-V, Amazon Web Services (AWS)
-*   **Réseaux :** TCP/IP, DNS, DHCP, VLAN, VPN, Cisco Packet Tracer
 
-### 🛡️ Cybersécurité (Blue Team & Ops)
-*   **Supervision & SIEM :** Splunk, ELK Stack (Analyse de logs & alertes)
-*   **Outils de sécurité :** Wireshark, TcpDump, Nmap, Burp Suite
-*   **Automatisation :** Scripting Bash, Python (En cours d'apprentissage)
+* **Systèmes :** Windows Server, Linux (Ubuntu, Kali)
+* **Administration :** Active Directory, DNS, DHCP, GPO
+* **Sécurité :** Durcissement des systèmes et des infrastructures
+* **Virtualisation :** VMware Workstation, Hyper-V
+* **Cloud :** Amazon Web Services (AWS)
+
+### 🌐 Réseaux
+
+* TCP/IP
+* DNS & DHCP
+* VLAN
+* VPN
+* Routage et segmentation réseau
+* Cisco Packet Tracer
+
+### 🛡️ Cybersécurité & Blue Team
+
+* **SOC & supervision :** Analyse des événements et des alertes de sécurité
+* **SIEM :** Splunk, ELK Stack
+* **Analyse réseau :** Wireshark, TcpDump
+* **Sécurité offensive & diagnostic :** Nmap, Burp Suite
+* **Réponse aux incidents :** Identification, investigation et analyse des incidents de sécurité
+
+### ⚙️ Automatisation
+
+* Bash
+* Python *(en cours d'apprentissage)*
 
 ---
 
-## 🚀 Projets en cours & Objectifs
-*   **🛠️ 🛠️ Lab Infrastructure Sécurisée & Virtualisation (En cours) : Mise en place d'une infrastructure PME haute disponibilité avec Hyper-V imbriqué (Nested) sous VMware Workstation, stockage SAN partagé TrueNAS (iSCSI), annuaire Active Directory (Windows Server 2025), base de données SQL Server sur Linux, supervision Centreon et stratégie de sauvegarde Veeam B&R.
-*   **🎯 Objectif :** Décrocher un **stage de 350 heures à partir de février 2027** en tant qu'Administrateur d'Infrastructures Sécurisées / Analyste SOC.
+## 🚀 Projet principal — Infrastructure Sécurisée & Virtualisation
+
+🛠️ **Lab Infrastructure Systèmes, Réseaux & Sécurité — En cours**
+
+Je réalise actuellement un projet pratique visant à concevoir, déployer et documenter une **infrastructure de PME sécurisée et supervisée**.
+
+### 🏗️ Technologies et services du lab
+
+* 🖥️ **Windows Server 2025**
+* 🏢 **Active Directory avec plusieurs contrôleurs de domaine**
+* ⚙️ **Virtualisation Hyper-V imbriquée (Nested Virtualization)**
+* 💾 **TrueNAS et stockage partagé**
+* 🔗 **iSCSI et NFS**
+* 🐧 **Serveurs Linux**
+* 🗄️ **SQL Server sur Linux intégré à Active Directory**
+* 📊 **Supervision avec Centreon**
+* 💾 **Stratégie de sauvegarde avec Veeam Backup & Replication**
+* 🛡️ **Sécurisation et segmentation des infrastructures**
+
+🎯 **Objectif du projet :** développer et démontrer des compétences concrètes en administration des systèmes et réseaux, virtualisation, stockage, supervision, sauvegarde et sécurisation d'une infrastructure d'entreprise.
+
+📂 **Le projet est documenté étape par étape sur GitHub**, avec la configuration, les choix techniques et les captures des différentes phases de déploiement.
+
+---
+
+## 🎯 Objectif professionnel
+
+Je recherche un **stage de 350 heures à partir de février 2027** afin de valider ma formation **RNCP Niveau 6**.
+
+🎯 **Postes recherchés :**
+
+* Administrateur Systèmes & Réseaux Junior
+* Administrateur d'Infrastructures Sécurisées Junior
+* Technicien Systèmes & Réseaux
+* Analyste SOC Junior / Blue Team
+
+Mon objectif est d'intégrer une équipe informatique afin de mettre en pratique mes compétences, continuer à apprendre au contact de professionnels et participer concrètement à la sécurisation et au maintien en conditions opérationnelles des infrastructures.
 
 ---
 
 ## 🤝 Me contacter
-*   💼 [LinkedIn](https://www.linkedin.com/in/anthony-robert-ar)
+
+* 💼 LinkedIn : [Anthony ROBERT](https://www.linkedin.com/in/anthony-robert-ar)
+
+---
+
+⭐ **N'hésitez pas à consulter mes projets GitHub pour suivre ma progression et découvrir mes réalisations techniques.**
