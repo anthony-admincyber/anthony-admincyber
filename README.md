@@ -22,13 +22,14 @@ Mon objectif est de combiner mon expérience professionnelle, mon sens de la rig
 
 * 🥇 **TryHackMe : Top 1 % mondial**
 
-<img width="1357" height="278" alt="image" src="https://github.com/user-attachments/assets/e2902f6e-968f-4188-983d-c700e80e3c91" />
-
   * Parcours **Pre-security**
   * Parcours **Cyber Security101**
   * Parcours **SOC Level 1***
   * Parcours **Junior Penetration Tester**
   * Parcours **Web Fundamentals**
+
+<img width="1357" height="278" alt="image" src="https://github.com/user-attachments/assets/e2902f6e-968f-4188-983d-c700e80e3c91" />
+
 
 * 🌐 **Cisco Networking Academy**
 
