@@ -77,20 +77,19 @@ Mon objectif est de combiner mon expérience professionnelle, mon sens de la rig
 
 ## 🚀 Projet principal — Infrastructure Sécurisée & Virtualisation
 
-🛠️ Lab Infrastructure Systèmes, Réseaux & Sécurité — En cours
+**🛠️ Lab Infrastructure Systèmes, Réseaux & Sécurité — En cours**
 
 Je réalise actuellement un projet pratique visant à concevoir, déployer et documenter une infrastructure de PME sécurisée et virtualisée.
 
-* 🏗️ Technologies et services du lab
-* 🖥️ Windows Server 2025
-* ⚙️ Virtualisation avec Hyper-V
-* 🏢 Active Directory et services de domaine
-* 🔐 DNS, stratégies de groupe (GPO) et sécurisation de l'environnement
-* 🐧 Serveurs Linux
-* 🗄️ SQL Server sur Linux intégré à Active Directory
-* 📊 Supervision avec Centreon
-* 💾 Stratégie de sauvegarde avec Veeam Backup & Replication
-* 🛡️ Sécurisation et durcissement des systèmes et infrastructures
+* **🏗️ Technologies et services du lab**
+* **⚙️ Virtualisation avec Hyper-V**
+* **🏢 Active Directory et services de domaine**
+* **🔐 DNS, stratégies de groupe (GPO) et sécurisation de l'environnement**
+* **🐧 Serveurs Linux**
+* **🗄️ SQL Server sur Linux intégré à Active Directory**
+* **📊 Supervision avec Centreon**
+* **💾 Stratégie de sauvegarde avec Veeam Backup & Replication**
+* **🛡️ Sécurisation et durcissement des systèmes et infrastructures**
 
 🎯 Objectif du projet : développer et démontrer des compétences concrètes en administration des systèmes et réseaux, virtualisation, supervision, sauvegarde et sécurisation d'une infrastructure d'entreprise.
 
