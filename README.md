@@ -25,6 +25,7 @@ Mon objectif est de combiner mon expérience professionnelle, mon sens de la rig
   * Path Basics/ Cyber Security Foundations : **Pre-security**, **Cyber Security 101**
   * Path Security Analyst : **SOC Level 1**
   * Path Penetration Tester : **Junior Penetration Tester**, **Web Fundamentals**
+
 https://tryhackme.com/p/Darksaber87
 <img width="1357" height="278" alt="image" src="https://github.com/user-attachments/assets/e2902f6e-968f-4188-983d-c700e80e3c91" />
 
