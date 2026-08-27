@@ -91,9 +91,9 @@ Je réalise actuellement un projet pratique visant à concevoir, déployer et do
 * **💾 Stratégie de sauvegarde avec Veeam Backup & Replication**
 * **🛡️ Sécurisation et durcissement des systèmes et infrastructures**
 
-🎯 Objectif du projet : développer et démontrer des compétences concrètes en administration des systèmes et réseaux, virtualisation, supervision, sauvegarde et sécurisation d'une infrastructure d'entreprise.
+🎯 **Objectif du projet :** développer et démontrer des compétences concrètes en administration des systèmes et réseaux, virtualisation, supervision, sauvegarde et sécurisation d'une infrastructure d'entreprise.
 
-📂 Le projet est documenté étape par étape sur GitHub, avec les configurations mises en œuvre, les choix techniques réalisés et les captures des différentes phases de déploiement.
+📂 **Le projet est documenté étape par étape sur GitHub**, avec les configurations mises en œuvre, les choix techniques réalisés et les captures des différentes phases de déploiement.
 
 ---
 
