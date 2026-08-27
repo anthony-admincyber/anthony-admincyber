@@ -75,7 +75,7 @@ Mon objectif est de combiner mon expérience professionnelle, mon sens de la rig
 
 ---
 
-🚀 Projet principal — Infrastructure Sécurisée & Virtualisation
+## 🚀 Projet principal — Infrastructure Sécurisée & Virtualisation
 
 🛠️ Lab Infrastructure Systèmes, Réseaux & Sécurité — En cours
 
