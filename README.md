@@ -27,7 +27,8 @@ Mon objectif est de combiner mon expérience professionnelle, mon sens de la rig
   * Path Penetration Tester : **Junior Penetration Tester**, **Web Fundamentals**
 
 https://tryhackme.com/p/Darksaber87
-<img width="1357" height="278" alt="image" src="https://github.com/user-attachments/assets/e2902f6e-968f-4188-983d-c700e80e3c91" />
+<img width="1405" height="300" alt="image" src="https://github.com/user-attachments/assets/1090142a-2132-41d8-af10-4ff43108371d" />
+
 
 
 * 🌐 **Cisco Networking Academy**
