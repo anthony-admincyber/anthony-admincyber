@@ -22,12 +22,12 @@ Mon objectif est de combiner mon expérience professionnelle, mon sens de la rig
 
 * 🥇 **TryHackMe : Top 1 % mondial**
 
+  * Profesional Certificate Pre Security SEC0
   * Path Basics/ Cyber Security Foundations : **Pre-security**, **Cyber Security 101**
   * Path Security Analyst : **SOC Level 1**
   * Path Penetration Tester : **Junior Penetration Tester**, **Web Fundamentals**
 
-https://tryhackme.com/p/Darksaber87
-<img width="1405" height="300" alt="image" src="https://github.com/user-attachments/assets/1090142a-2132-41d8-af10-4ff43108371d" />
+<img width="1365" height="327" alt="image" src="https://github.com/user-attachments/assets/0e700bd2-5a0d-4147-93cc-9afb22d4fa81" />
 
 
 
