@@ -23,7 +23,7 @@ Mon objectif est de combiner mon expérience professionnelle, mon sens de la rig
 
 * 🥇 **TryHackMe : Top 1 % mondial**
 
-  * Profesional Certificate : **Pre Security SEC0**
+  * Profesional Certificate : **Pre Security (SEC0)**
   * Path Basics/ Cyber Security Foundations : **Pre-security**, **Cyber Security 101**
   * Path Security Analyst : **SOC Level 1**
   * Path Penetration Tester : **Junior Penetration Tester**, **Web Fundamentals**
