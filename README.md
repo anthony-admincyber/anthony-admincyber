@@ -28,8 +28,7 @@ Mon objectif est de combiner mon expérience professionnelle, mon sens de la rig
   * Path Security Analyst : **SOC Level 1**
   * Path Penetration Tester : **Junior Penetration Tester**, **Web Fundamentals**
 
-<img width="1365" height="327" alt="image" src="https://github.com/user-attachments/assets/0e700bd2-5a0d-4147-93cc-9afb22d4fa81" />
-
+<img width="1390" height="797" alt="image" src="https://github.com/user-attachments/assets/88f56ccd-c081-45a1-8506-2c7605d8e8e4" />
 
 
 * 🌐 **Cisco Networking Academy**
